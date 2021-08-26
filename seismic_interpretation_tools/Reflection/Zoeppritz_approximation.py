@@ -1,3 +1,4 @@
+import numpy as np
 def acoustic_impedance(v,rho):
     return v*rho
 
